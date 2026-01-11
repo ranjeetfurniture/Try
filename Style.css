@@ -267,7 +267,7 @@ nav {
   font-size:  1.4rem;
   margin-bottom: 19px;
   line-height: 1.2;
-  text-align: left;
+  text-align: right;
 }
 #about-me li {
  color: #ffffff;
@@ -607,3 +607,4 @@ footer {
  .nav-cta:hover {
    background: rgba(240,179,90,0.12);
 }
+
